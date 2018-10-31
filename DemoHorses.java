@@ -1,7 +1,7 @@
 import Horse.*;
 import java.util.Scanner;
 
-public class DemoHorse{
+public class DemoHorses{
 	public static void main(String[] ars){
 	
 	RaceHorse user = new RaceHorse();
